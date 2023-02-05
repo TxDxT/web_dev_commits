@@ -1,5 +1,9 @@
 This is my commit!
 
+<<<<<<< HEAD
 this will be the second commit
 
 i eat children
+=======
+this will be the second commit
+>>>>>>> feature
